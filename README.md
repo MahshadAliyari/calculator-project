@@ -86,3 +86,7 @@ The main goal of this exercise is to practice JavaScript fundamentals, including
 ## Status
 
 Completed — Exercise 1: Calculator
+
+## Live Demo
+
+https://mahshadaliyari.github.io/calculator-project/
