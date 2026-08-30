@@ -90,3 +90,9 @@ Completed — Exercise 1: Calculator
 ## Live Demo
 
 https://mahshadaliyari.github.io/calculator-project/
+
+## AI Transparency
+
+- **Section:** JavaScript calculation logic.
+- **How I used it:** I first asked the AI to explain the underlying concepts. Then I wrote the code myself based on those concepts, and afterward asked the AI to review my code and point out any issues.
+- **What I changed:** I implemented the logic myself; the AI was used for concept explanation and code review, not for generating the code.
